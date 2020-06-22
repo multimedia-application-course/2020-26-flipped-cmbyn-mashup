@@ -7,3 +7,7 @@ BGM：Try-Asher Book
 电影：Flipped，Call Me by Your Name
 
 工具：Adobe Premiere cc 2018
+
+注释：由于是两个人合作完成，pr文件分为cmbyn(1).prproj(负责Call Me by Your Name剪辑)、ccc-1-1.prproj（Flipped剪辑+两个视频拼接）
+
+
